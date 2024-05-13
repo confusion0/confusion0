@@ -1,6 +1,7 @@
 ### MERN Stack Developer
 
 <img src="https://github-readme-stats.vercel.app/api?username=confusion0&show_icons=true&include_all_commits=true&show_icons=true&count_private=true&theme=material-palenight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=confusion0&langs_count=5&show_icons=true&locale=en&hide_border=true&layout=compact&theme=onedark"/>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/confusion0)
